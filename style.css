@@ -1,0 +1,180 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+.title{
+    display: flex;
+    justify-content: center;
+    color: azure;
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.mainBody{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.right{
+    width: 40%;
+}
+
+.left{
+    width: 40%;
+}
+
+.nse{
+    color: azure;
+    padding-top: 10px;
+}
+
+.nseti{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.nsete{
+    padding-top: 10px;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: large;
+}
+
+.nsj{
+    color: azure;
+    padding-top: 10px;
+}
+
+.nsjti{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.nsjte{
+    padding-top: 10px;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: large;
+}
+
+.na{
+    color: azure;
+    padding-top: 10px;
+}
+
+.nati{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.nate{
+    padding-top: 10px;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: large;
+}
+
+.nn{
+    color: azure;
+    padding-top: 10px;
+}
+
+.nnti{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.nnte{
+    padding-top: 10px;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: large;
+}
+
+.MM{
+    color: azure;
+    padding-top: 10px;
+}
+
+.MMti{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.MMte{
+    padding-top: 10px;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: large;
+}
+
+.MMX{
+    color: azure;
+    padding-top: 10px;
+}
+
+.MMXti{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.MMXte{
+    padding-top: 10px;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: large;
+}
+
+.MMXX{
+    color: azure;
+    padding-top: 10px;
+}
+
+.MMXXti{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.MMXXte{
+    padding-top: 10px;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: large;
+}
+
+.sv{
+    color: azure;
+    padding-top: 10px;
+}
+
+.svti{
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.svte{
+    padding-top: 10px;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: large;
+}
