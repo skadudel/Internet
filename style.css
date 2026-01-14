@@ -4,19 +4,22 @@ body{
     background-color: black;
 }
 
-
 .title{
     display: flex;
     justify-content: center;
     color: azure;
     font-size: 38px;
     font-weight: bold;
+    font-family: 'arial';
     padding: 5px;
 }
 
 .mainBody{
+    /* Makes the two columns go beside eachother and not one below the other */
     display: flex;
     justify-content: space-evenly;
+    /* Just changes the font of text in the columns */ 
+    font-family: 'arial';
 }
 
 .right{
@@ -30,10 +33,10 @@ body{
 .nse{
     color: azure;
     margin-top: 10px;
+    padding: 15px 35px 35px 35px;
     border: 2px;
     border-color: white;
     border-style: solid;
-    
 }
 
 .nseti{
@@ -44,16 +47,16 @@ body{
 }
 
 .nsete{
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
     font-size: large;
 }
 
 .nsj{
     color: azure;
     margin-top: 10px;
+    padding: 15px 35px 35px 35px;
     border: 2px;
     border-color: white;
     border-style: solid;
@@ -67,16 +70,16 @@ body{
 }
 
 .nsjte{
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
     font-size: large;
 }
 
 .na{
     color: azure;
     margin-top: 10px;
+    padding: 15px 35px 35px 35px;
     border: 2px;
     border-color: white;
     border-style: solid;
@@ -90,16 +93,16 @@ body{
 }
 
 .nate{
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
     font-size: large;
 }
 
 .nn{
     color: azure;
     margin-top: 10px;
+    padding: 15px 35px 35px 35px;
     border: 2px;
     border-color: white;
     border-style: solid;
@@ -113,16 +116,16 @@ body{
 }
 
 .nnte{
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
     font-size: large;
 }
 
 .MM{
     color: azure;
     margin-top: 10px;
+    padding: 15px 35px 35px 35px;
     border: 2px;
     border-color: white;
     border-style: solid;
@@ -136,16 +139,16 @@ body{
 }
 
 .MMte{
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
     font-size: large;
 }
 
 .MMX{
     color: azure;
     margin-top: 10px;
+    padding: 15px 35px 35px 35px;
     border: 2px;
     border-color: white;
     border-style: solid;
@@ -159,21 +162,22 @@ body{
 }
 
 .MMXte{
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
     font-size: large;
 }
 
 .MMXX{
     color: azure;
+    padding: 15px 35px 35px 35px;
     margin-top: 10px;
     margin-left: 6.62%;
     margin-right: 6.62%;
     border: 2px;
     border-color: white;
     border-style: solid;
+    font-family: 'arial';
 }
 
 .MMXXti{
@@ -184,15 +188,16 @@ body{
 }
 
 .MMXXte{
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
     font-size: large;
 }
 
 .sv{
     color: azure;
+    padding: 15px 35px 35px 35px;
+    padding-top: -10px;
     margin-top: 10px;
     margin-bottom: 20px;
     margin-left: 6.62%;
@@ -200,6 +205,7 @@ body{
     border: 2px;
     border-color: white;
     border-style: solid;
+    font-family: 'arial';
 }
 
 .svti{
@@ -210,9 +216,8 @@ body{
 }
 
 .svte{
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
     font-size: large;
 }
